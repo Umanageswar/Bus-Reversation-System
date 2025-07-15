@@ -25,5 +25,4 @@ A **Console-based Bus Reservation System** developed using **Java** and **MySQL*
 
 ---
 
-## 📂 Project Structure
 
