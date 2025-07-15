@@ -8,8 +8,8 @@ public class DBConnection {
     public static Connection getConnection() {
         try {
             String url = "jdbc:mysql://localhost:3306/bus_reservation";
-            String user = "root";
-            String password = "Ganji1423";
+            String user = "username";
+            String password = "password";
 
             return DriverManager.getConnection(url, user, password);
         } catch (SQLException e) {
